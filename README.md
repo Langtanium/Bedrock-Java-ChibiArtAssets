@@ -1,4 +1,4 @@
-# Bedrock-ChibiArtAssets
+# Bedrock/Java-ChibiArtAssets
 Collection of the chibi art style found in the menus of Minecraft.
 
 Files in the "Source" folder have been extracted from the game.
